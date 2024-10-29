@@ -78,15 +78,9 @@ Ensure you have the following installed:
 - **Validation Accuracy**: 74%
 - **Model Performance**: While training accuracy is high, validation accuracy can be improved with further tuning or data augmentation.
 
-## Sample Spectrograms
+## Spectrograms
 
-Below are sample spectrograms used in this project:
-
-### Violin Spectrogram
-![Violin Spectrogram](images/violin_spectrogram.png)
-
-### Piano Spectrogram
-![Piano Spectrogram](images/piano_spectrogram.png)
+![image](https://github.com/user-attachments/assets/22dd5448-3d31-4fc0-bfa7-de0e9e4e99a3)
 
 
 These images represent different instruments in the dataset, transformed from audio files to spectrogram format for the CNN model.
